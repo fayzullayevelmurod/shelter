@@ -224,6 +224,7 @@ header .logo h6{
 }
 
 .friends .slider_button{
+    cursor: pointer;
     margin-top: 60px;
     display: flex;
     align-items: center;
